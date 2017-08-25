@@ -1,3 +1,4 @@
+#Class: Apache2
 class apache2 {
 
   package { 'apache2':
